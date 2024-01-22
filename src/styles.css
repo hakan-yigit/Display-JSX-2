@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.user-deets {
+  text-align: left;
+  padding: 20px;
+}
+ul {
+  list-style-type: none;
+  text-align: left;
+  padding-left: 20px;
+  line-height: 3rem;
+}
+h4 {
+  text-align: left;
+  padding: 20px;
+  padding-bottom: 0px;
+}
